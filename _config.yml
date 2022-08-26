@@ -1,8 +1,8 @@
 title: "Affiliates"
 email: wowthemesnet@gmail.com
 timezone: UTC
-baseurl: "/affiliates-jekyll-theme"
-permalink: "/:title/"
+baseurl: "/nourijp"
+permalink: "/portfolio/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 author: Sal
